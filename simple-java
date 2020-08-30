@@ -1,6 +1,6 @@
 Class Simple{
 Public static void main(String args[]){
 
-System.out.println("Welcome to Manoranjan Cloud india ");
+System.out.println("Welcome to Manoranjan Cloud india or my love ");
 }
 }
