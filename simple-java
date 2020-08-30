@@ -1,6 +1,6 @@
 Class Simple{
 Public static void main(String args[]){
 
-System.out.println("I love my india ");
+System.out.println("I love my india and my love ");
 }
 }
