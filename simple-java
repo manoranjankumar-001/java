@@ -1,6 +1,6 @@
 Class Simple{
 Public static void main(String args[]){
 
-System.out.println("Shro-systems private.limited & real-networks private limited & google.com ");
+System.out.println("Shro-systems private.limited & real-networks private limited & google.com start one ");
 }
 }
